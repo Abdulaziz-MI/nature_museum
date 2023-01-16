@@ -1,0 +1,74 @@
+#MainNavbar .navbar-brand {
+    color: #478778 ;
+    font-size: 1.5rem
+  }
+
+  #MainNavbar{
+      font-weight: 300;
+      font-size: 1.5rem;
+  }
+
+  html,body{
+      background-color: #b0e0c8;
+      font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+    }
+
+#MainNavbar .nav-link{
+    color: white;
+}
+#MainNavbar .nav-link:hover{
+    color: #478778;
+}
+body{
+    margin: 0;
+}
+#HeadingGroup{
+    
+}
+#HeadingGroup span{
+color: #478778;
+}
+#HeadingGroup h1{
+font-weight: 100;
+font-size: 3rem;
+}
+
+
+@media (max-width:1200px) {
+   #HeadingGroup h1{
+font-size: 2.25rem;
+font-weight: 200;}
+}
+
+
+svg.bi.bi-tree{
+    height: 3rem !important;
+ width: 2rem !important;
+ margin: auto auto !important;
+ color: #478778 ;
+}
+
+.blurb h2{
+    color: #478778 ;
+    font-weight: 200;
+    font-size: 2rem;
+}
+.blurb p{
+    color: 	#32CD32;
+font-weight: 200;
+font-size: 1.25rem;
+line-height: 2;
+}
+
+
+
+#C1E1C1
+#AFE1AF
+
+@media only screen and (max-width: 600px) {
+
+    img.TopImg{width: 100%  !important; margin: 0  !important; padding: 0  !important;}
+
+
